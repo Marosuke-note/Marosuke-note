@@ -1,8 +1,15 @@
-## Hi , I'm Kayo Shimomura 👋
+## Hi There 👋
+🧑‍💻 I'm a backend engineer.
+🌱 I’m currently learning go!
+📫 How to reach me: Twitter - @username
 
 ## 技術スタック
 ### 言語
-https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
+
+### フロントエンド
+
+### バックエンド
+
 
 
 <!--
