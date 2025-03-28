@@ -1,5 +1,10 @@
 ## Hi , I'm Kayo Shimomura 👋
 
+## 技術スタック
+### 言語
+https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white
+
+
 <!--
 **Marosuke-note/Marosuke-note** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
