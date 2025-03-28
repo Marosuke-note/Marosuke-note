@@ -1,7 +1,7 @@
 ## Hi There 👋
-🧑‍💻 I'm a backend engineer.
-🌱 I’m currently learning go!
-📫 How to reach me: Twitter - @username
+🧑‍💻 I'm a backend engineer. 
+🌱 I’m currently learning go! 
+📫 How to reach me: Twitter - @username 
 
 ## 技術スタック
 ### 言語
