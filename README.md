@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🧑‍💻 I'm in the process of changing jobs.
-- 🌱 I’m currently learning Nextjs\TypeScript!
+- 🌱 I’m currently learning FastAPi\Python!
 - 📫 How to reach me: [x - @marosuke_9999](https://x.com/marosuke_9999)
 <br>
 
