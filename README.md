@@ -9,7 +9,7 @@
 
 - 🧑‍💻 I'm a backend engineer.
 - 🌱 I’m currently learning go!
-- 📫 How to reach me: [x - @username](https://x.com/marosuke_9999)
+- 📫 How to reach me: [x - @marosuke_9999](https://x.com/marosuke_9999)
 <br>
 
 
@@ -17,7 +17,7 @@
 <!-- ライトモート：theme=light, ダークモート：theme=dark -->
 <!-- アイコンの選択肢一覧：https://arc.net/l/quote/zizyykfh -->
 ## 🌱 Skills
-<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,node.js,react,next,python,fastapi,django,docker,aws,firebase,github,figma,autocad" />
+<img alt="my skills" src="https://skillicons.dev/icons?theme=dark&perline=7&i=html,css,js,ts,node,react,next,python,fastapi,django,docker,aws,firebase,github,figma,autocad" />
 <br>
 
 
